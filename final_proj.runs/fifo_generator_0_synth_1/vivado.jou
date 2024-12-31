@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri Nov 22 21:46:01 2024
+# Process ID: 10756
+# Current directory: U:/Desktop/ECE 437 Labs/final_proj/final_proj.runs/fifo_generator_0_synth_1
+# Command line: vivado.exe -log fifo_generator_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_generator_0.tcl
+# Log file: U:/Desktop/ECE 437 Labs/final_proj/final_proj.runs/fifo_generator_0_synth_1/fifo_generator_0.vds
+# Journal file: U:/Desktop/ECE 437 Labs/final_proj/final_proj.runs/fifo_generator_0_synth_1\vivado.jou
+# Running On: ECEB-4022-02, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 6, Host memory: 33554 MB
+#-----------------------------------------------------------
+source fifo_generator_0.tcl -notrace
